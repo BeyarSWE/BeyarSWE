@@ -1,42 +1,62 @@
-# Hi there! 👋 I'm studying to become an IT Security Engineer
+<div align="center">
 
-I am a driven student passionate about cybersecurity, networking, and secure infrastructure. Currently, I am diving deep into everything from pentesting to IT law and cloud security.
+# Hi there, I'm Beyar! 👋
+### 🔐 Aspiring IT Security Engineer | 🌐 Network Enthusiast
 
----
-
-### 🛠 Tools & Skills
-Based on my education and interests:
-
-* **Security:** Ethical Hacking, System Hardening, Information Security, Risk Analysis.
-* **Infrastructure:** Network Engineering (CCNA level), Virtualization, Automation, Cloud Strategy.
-* **Processes & Laws:** IT Law (GDPR/NIS2), Agile Methods (Scrum/Kanban).
-* **Other:** Operational Technology (OT), Linux, Scripting.
+*Securing infrastructure through ethical hacking, hardening, and strategic risk analysis.*
 
 ---
 
-### 📚 My Education
-Currently pursuing a Higher Vocational Education (HVE) diploma. Here are the courses I have completed or am currently taking:
+### 🚀 Technical Arsenal
 
-| Course | Area |
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" />
+<img src="https://img.shields.io/badge/TryHackMe-C30000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+</div>
+
+---
+
+### ⚡ Core Competencies
+
+* **🛡️ Security Operations:** Ethical Hacking, System Hardening, Risk Analysis, OT Security.
+* **☁️ Cloud & Infrastructure:** Azure/AWS Strategy, Virtualization, Network Engineering (CCNA level).
+* **⚖️ Governance:** GDPR, NIS2, ISO Standards.
+
+---
+
+### 📚 Education Path
+*Pursuing Higher Vocational Education (HVE) Diploma*
+
+| **Area** | **Key Focus** |
 | :--- | :--- |
-| 🛡️ **Ethical Hacking** | Offensive Security & Pentesting |
-| 🧱 **Hardening** | Secure Systems & Configuration |
-| ☁️ **Secure Cloud Strategy** | Cloud Security (Azure/AWS) |
-| 🌐 **Network Technology** | Routing, Switching & Protocols |
-| 🔒 **Information Security** | GRC & ISO Standards |
-| ⚖️ **IT Law** | Laws & Regulations within IT |
-| 🤖 **Virtualization & Automation** | Infrastructure as Code |
-| 🏭 **Operational Technology** | OT Security |
-| 💼 **LIA (Internship)** | Practical Work Experience |
+| **Offensive Security** | Pentesting, Vulnerability Assessment |
+| **Defensive Security** | Hardening, Firewall Config, Blue Teaming |
+| **Networking** | Routing, Switching, TCP/IP, Industrial Networks (OT) |
+| **Process** | Agile (Scrum/Kanban), IT Law |
 
 ---
 
-### 🔭 What I'm working on right now
-* Preparing for my upcoming internship (LIA) period.
-* [Link to a school project you are proud of]
-* Exploring Hack The Box / TryHackMe in my free time.
+### 🔭 Current Focus
+* 🔥 **Deep Dive:** Mastering Privilege Escalation techniques on *Hack The Box*.
+* 💼 **Career:** Preparing for my upcoming **LIA (Internship)** period.
+* 🌱 **Learning:** Automating security checks with Python & Bash.
 
 ---
 
-### 📫 Contact me
-* (https://www.linkedin.com/in/beyar-yusuf-a83031218/)
+<div align="center">
+
+### 📫 Let's Connect!
+
+<a href="https://www.linkedin.com/in/beyar-yusuf-a83031218/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
