@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" />
-<img src="https://img.shields.io/badge/TryHackMe-C30000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
 **Infrastructure & Cloud**
 <br>
@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/HeidiSQL-6DB33F?style=for-the-badge&logo=heidisql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
 
 **Web & Design**
 <br>
@@ -77,6 +78,10 @@
 <div align="center">
 
 ### 📫 Let's Connect!
+
+  <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
 
 <a href="https://www.linkedin.com/in/beyar-yusuf-a83031218/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
