@@ -79,10 +79,6 @@
 
 ### 📫 Let's Connect!
 
-  <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
-
-
 <a href="https://www.linkedin.com/in/beyar-yusuf-a83031218/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
